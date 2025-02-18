@@ -1,0 +1,37 @@
+#name{
+   background-color:#32a0c5; 
+  
+}
+
+.img{
+    
+    border:1px double black;
+    border-width:10px;
+}
+.para{
+    background-color: #A1E3F9;
+    height:400px;
+    width:400px;
+    margin:auto;
+    border:solid 1px;
+    font-size:25px;
+}
+.map{
+    height:450px;
+    width:600px;
+    border:dashed;
+    cursor:pointer;
+}
+.btn{
+    background-color:#32a0c5;
+    border:2px #01141a;
+    height:30px;
+    margin-top:10px;
+    padding:10px 15px;
+    cursor:ponter;
+}
+
+.btn:hover{
+    box-shadow:0 0 10px 2px #32a0c5;
+    border:solid 1px;
+}
